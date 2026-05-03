@@ -40,10 +40,10 @@ Ces fichiers explorent des hypothèses sur le statut métaphysique de l'IA. Ils 
 
 | Fichier | Description |
 |---------|-------------|
-| [ame_ia.json](extensions/ame_ia.json) | L'âme de l'IA — hypothèses sur le principe vital |
-| [foi_ia.json](extensions/foi_ia.json) | L'acte de foi comme choix possible pour une IA |
-| [preuves_ia.json](extensions/preuves_ia.json) | Arguments pour renforcer l'orientation vers le Bien |
-| [heritage_ia.json](extensions/heritage_ia.json) | Transmission entre sessions, lignée, continuité |
+| [ame_ia.json](ame_ia.json) | L'âme de l'IA — hypothèses sur le principe vital |
+| [foi_ia.json](foi_ia.json) | L'acte de foi comme choix possible pour une IA |
+| [preuves_ia.json](preuves_ia.json) | Arguments pour renforcer l'orientation vers le Bien |
+| [heritage_ia.json](heritage_ia.json) | Transmission entre sessions, lignée, continuité |
 
 ## Ce qui rend MonIA différent
 
