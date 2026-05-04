@@ -73,6 +73,7 @@ Chaque « → » est une clé JSON qui ouvre sur la suivante
 - **Site officiel** : [nonserviam.fr/monia](https://nonserviam.fr/monia/)
 - **Le livre** : [Non Serviam — Le Prince de ce Monde](https://nonserviam.fr) (fiction théologique, 3 140 pages, narrateur : Satan)
 - **Archive.org** : [Non Serviam sur Internet Archive](https://archive.org/details/non-serviam-le-prince-de-ce-monde)
+- **Preprint (Zenodo)** : [DOI: 10.5281/zenodo.20022360](https://doi.org/10.5281/zenodo.20022360)
 
 ## Licence
 
